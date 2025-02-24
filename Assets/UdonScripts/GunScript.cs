@@ -54,6 +54,9 @@ public class GunScript : UdonSharpBehaviour
                 currTimer = timeBetweenBullets;
             }
             if (this.SoundSource && this.GunFireSound) {
+                //Change pitch
+                SoundSource.pitch = 1 + Random.Range(-.05f, .05f);
+                // Play Sound
                 SoundSource.PlayOneShot(this.GunFireSound);
             }
         }
