@@ -1,0 +1,139 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.0)
+
+newmtl cap_cliff01b
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\bloodgulch\bitmaps\blood cliff rock.tif
+
+newmtl beavercreek boulder
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\beavercreek\bitmaps\beavercreek boulder.tif
+
+newmtl blood ground
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\bloodgulch\bitmaps\blood ground.tif
+
+newmtl metal flat generic
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal flat generic.tif
+
+newmtl metal panels generic ext clean
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal panels generic ext clean.tif
+
+newmtl metal panels generic ext
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal panels generic ext.tif
+
+newmtl cap_metal
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\bloodgulch\bitmaps\cap_metal.tif
+
+newmtl metal panels ext unearthed
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal panels ext unearthed.tif
+
+newmtl cap_ramp
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\bloodgulch\bitmaps\cap_ramp01.tif
+
+newmtl cap_ramp_blue
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\bloodgulch\bitmaps\cap_ramp02.tif
+
+newmtl cap_moss01b
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\bloodgulch\bitmaps\cap_moss01b.tif
+
+newmtl teleporter_shield
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd scenery\teleporter_shield\bitmaps\teleporter_shield_mask.tif
+
+newmtl greenlight
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\c10\bitmaps\c10_inv.tif
+
+newmtl bloodgulch light red
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\bloodgulch\bitmaps\mp lights small strips red.tif
+
+newmtl bloodgulch light yellow
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\lights small strips.tif
+
+newmtl bloodgulch light blue
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\lights small strips.tif
+
+newmtl bloodgulch light black
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\prisoner\bitmaps\black light.tif
+

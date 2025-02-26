@@ -1,0 +1,179 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.0)
+
+newmtl chillout metal flat
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\chillout\bitmaps\chillout metal flat.tif
+
+newmtl covenant metal strips wide
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a50\bitmaps\covenant metal strips wide.tif
+
+newmtl covenant metal strips narrow
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a50\bitmaps\covenant metal strips narrow.tif
+
+newmtl covenant plate floor
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a50\bitmaps\covenant metal generic.tif
+
+newmtl chillout plate floor
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a50\bitmaps\covenant metal generic.tif
+
+newmtl chillout overhead light
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a50\bitmaps\covenant plate floor.tif
+
+newmtl metal panels generic ext
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal panels generic ext.tif
+
+newmtl covenant circuits
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a50\bitmaps\covenant circuits.tif
+
+newmtl metal flat generic
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal flat generic.tif
+
+newmtl covenant metal panel
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a50\bitmaps\covenant metal panel.tif
+
+newmtl chillout f-runner strips wide
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal strips wide.tif
+
+newmtl chillout f-runner strips narrow
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal strips narrow.tif
+
+newmtl chillout alpha grate
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a50\bitmaps\covenant alpha grate.tif
+
+newmtl chillout glass
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\chillout\bitmaps\chillout glass.tif
+
+newmtl chillout metal strips narrow
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a50\bitmaps\covenant metal strips narrow.tif
+
+newmtl chillout metal strips wide
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a50\bitmaps\covenant metal strips wide.tif
+
+newmtl chillout yellow light
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\lights small strips.tif
+
+newmtl chillout blue light
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\lights small strips.tif
+
+newmtl chillout blue black light
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\prisoner\bitmaps\black light.tif
+
+newmtl chillout pin light
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\lights small strips.tif
+
+newmtl chillout yellow black light
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\prisoner\bitmaps\black light.tif
+
+newmtl chillout greenlight
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\c10\bitmaps\c10_inv.tif
+

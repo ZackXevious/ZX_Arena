@@ -1,0 +1,83 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.0)
+
+newmtl steel
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a10\bitmaps\steel.tif
+
+newmtl panel scuff
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a10\bitmaps\panel scuff.tif
+
+newmtl panel strip
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a10\bitmaps\panel strip.tif
+
+newmtl panel generic
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a10\bitmaps\panel generic.tif
+
+newmtl tech rack plate
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a10\bitmaps\tech rack plate.tif
+
+newmtl metal flat generic
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal flat generic.tif
+
+newmtl beavercreek ladder
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\beavercreek\bitmaps\beaver ladder.tif
+
+newmtl wizard dim white
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\lights small strips.tif
+
+newmtl wizard white light
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\bloodgulch\bitmaps\mp lights small strips.tif
+
+newmtl greenlight
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\c10\bitmaps\c10_inv.tif
+

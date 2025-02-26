@@ -1,0 +1,131 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.0)
+
+newmtl timberland_rock_walls
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\timberland\bitmaps\timberland_ground.tif
+
+newmtl timberland_ground
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\timberland\bitmaps\timberland_ground.tif
+
+newmtl timberland_treesclump_filler
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\timberland\bitmaps\timberland_treesclump_filler.tif
+
+newmtl timberland_trees_filler
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\timberland\bitmaps\timberland_trees_filler.tif
+
+newmtl timberland_stream_bed
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\timberland\bitmaps\timberland_ground.tif
+
+newmtl timberland_metal_flat_generic
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal flat generic.tif
+
+newmtl timberland_metal_strips_narrow
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal strips narrow.tif
+
+newmtl timberland_metal_plate_floor
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal plate floor ext.tif
+
+newmtl timberland_metal_panels_generic
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\timberland\bitmaps\timberland_metal_panels_generic.tif
+
+newmtl timberland_ladder
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\beavercreek\bitmaps\beaver ladder.tif
+
+newmtl timberland_metal_panels_ext
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal panels generic ext.tif
+
+newmtl timberland_base_lights_red
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\timberland\bitmaps\timberland_base_lights_red.tif
+
+newmtl timberland_base_stripes
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\timberland\bitmaps\timberland_base_stripes.tif
+
+newmtl timberland_stream
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\timberland\bitmaps\timberland_stream.tif
+
+newmtl timberland_base_lights_blue
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\timberland\bitmaps\timberland_base_lights_blue.tif
+
+newmtl timberland_waterfall
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\timberland\bitmaps\timberland_waterfall_mask.tif
+

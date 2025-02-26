@@ -1,0 +1,83 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.0)
+
+newmtl metal plate floor
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal plate floor.tif
+
+newmtl metal flat generic
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal flat generic.tif
+
+newmtl metal strips wide
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal strips wide.tif
+
+newmtl metal panels generic
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal panels generic.tif
+
+newmtl metal strips wide a
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal strips wide 1.tif
+
+newmtl decorative wide circle
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal strips decorative circle.tif
+
+newmtl metal strips narrow
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal strips narrow.tif
+
+newmtl metal strips decorative wide
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal strips decorative wide.tif
+
+newmtl metal panels generator
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal panels generator.tif
+
+newmtl hangemhigh blue light
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\lights small strips.tif
+

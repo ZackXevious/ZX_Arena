@@ -1,0 +1,171 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.0)
+
+newmtl metal strips narrow
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal strips narrow.tif
+
+newmtl metal flat generic
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal flat generic.tif
+
+newmtl metal panels generic
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal panels generic.tif
+
+newmtl metal plate floor ext
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal plate floor ext.tif
+
+newmtl metal panels ext unearthed
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal panels ext unearthed.tif
+
+newmtl metal panels generic ext
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal panels generic ext.tif
+
+newmtl sidewinder ground
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\sidewinder\bitmaps\sidewinder_ground.tif
+
+newmtl beavercreek ladder
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\beavercreek\bitmaps\beaver ladder.tif
+
+newmtl metal strips wide
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal strips wide.tif
+
+newmtl sidewinder cliff
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\sidewinder\bitmaps\sw_ice_cliff.tif
+
+newmtl sidewinder ice
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\sidewinder\bitmaps\sidewinder_ground.tif
+
+newmtl sidewinder generator
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\metal panels generator.tif
+
+newmtl dangercanyon_arrow_red
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\dangercanyon\bitmaps\dangercanyon_arrow_red.tif
+
+newmtl dangercanyon_arrow_white
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\dangercanyon\bitmaps\dangercanyon_arrow_white.tif
+
+newmtl dangercanyon_arrow_blue
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\dangercanyon\bitmaps\dangercanyon_arrow_blue.tif
+
+newmtl sidewinder yellow bright
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\lights small strips.tif
+
+newmtl sidewinder red dim
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\sidewinder\bitmaps\sidewinder lights.tif
+
+newmtl sidewinder_base_stripes
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\sidewinder\bitmaps\sidewinder_base_stripes.tif
+
+newmtl sidewinder yellow dim
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\b30\bitmaps\lights small strips.tif
+
+newmtl sidewinder red bright
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\sidewinder\bitmaps\sidewinder lights.tif
+
+newmtl greenlight
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\c10\bitmaps\c10_inv.tif
+

@@ -1,0 +1,147 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.0)
+
+newmtl covenant plate floor
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a50\bitmaps\covenant metal generic.tif
+
+newmtl covenant metal generic
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a50\bitmaps\covenant metal generic.tif
+
+newmtl covenant metal strips narrow
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a50\bitmaps\covenant metal strips narrow.tif
+
+newmtl covenant rounded caripace
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a50\bitmaps\covenant rounded caripace.tif
+
+newmtl covenant metal strips wide
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a50\bitmaps\covenant metal strips wide.tif
+
+newmtl mp dam circuits purp 50per
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a50\bitmaps\covenant circuits.tif
+
+newmtl mp dam circuits 50percent
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a50\bitmaps\covenant circuits.tif
+
+newmtl beavercreek ladder
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\test\beavercreek\bitmaps\beaver ladder.tif
+
+newmtl covenant cor floor
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a50\bitmaps\covenant cor floor.tif
+
+newmtl mp dam circuits orng 50per
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a50\bitmaps\covenant circuits.tif
+
+newmtl covenant metal panel
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a50\bitmaps\covenant metal panel.tif
+
+newmtl covenant alpha grate
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a50\bitmaps\covenant alpha grate.tif
+
+newmtl teleporter_shield
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd scenery\teleporter_shield\bitmaps\teleporter_shield_mask.tif
+
+newmtl dam_waterfall_frontc
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a30\bitmaps\waterfallc_mask.tif
+
+newmtl mp light dim white
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\a50\bitmaps\covenant lights strip.tif
+
+newmtl dam_conelight
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\c10\bitmaps\c10_inv.tif
+
+newmtl dam_light_inv_50white
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\c10\bitmaps\c10_inv.tif
+
+newmtl dam_light_inv_25white
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+illum 1
+map_Kd levels\c10\bitmaps\c10_inv.tif
+
