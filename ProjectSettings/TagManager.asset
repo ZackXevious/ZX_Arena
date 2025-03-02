@@ -27,9 +27,9 @@ TagManager:
   - InternalUI
   - HardwareObjects
   - reserved4
-  - 
-  - 
-  - 
+  - Bullets
+  - Reload
+  - HUD
   - 
   - 
   - 
@@ -38,6 +38,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: HUD
+    uniqueID: 3722951653
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
