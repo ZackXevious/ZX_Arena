@@ -1,6 +1,7 @@
 ﻿
 using UdonSharp;
 using UnityEngine;
+using VRC.SDK3.Components;
 using VRC.SDKBase;
 using VRC.Udon;
 using VRC.Udon.Common.Interfaces;
@@ -18,9 +19,12 @@ public class GunScript : UdonSharpBehaviour
     float currTimer;
     [SerializeField] float timeBetweenBullets = .2f;
     [SerializeField] int magSize = 12;
-    [SerializeField] int totalAllowedAmmo= 72;
+    [SerializeField] int maxAmmo= 72;
     int currMag;
     int currAmmo;
+
+    [Header("InteractableStuff")]
+    [SerializeField] GameObject reloadInteract;
 
     [Header("Sound Effects")]
     [SerializeField] AudioSource SoundSource;
@@ -30,14 +34,24 @@ public class GunScript : UdonSharpBehaviour
     {
         this.currAmmo = this.magSize * 3;
         this.reloadWeapon();
-        
+        if (reloadInteract!=null) {
+
+        }
+        this.toggleInteracts(false);
+
     }
     public override void OnPickup() {
         base.OnPickup();
+        this.toggleInteracts(true);
         //Get the player who picked this up
         //Enable grip and reload interacts
         //adjust location on screen for if player is on PC or in VR.
         //Apply GUI stuff for player
+    }
+
+    public override void OnDrop() {
+        base.OnDrop();
+        this.toggleInteracts(false);
     }
 
     public override void OnPickupUseDown() {
@@ -107,6 +121,27 @@ public class GunScript : UdonSharpBehaviour
         int ammoDifference = this.magSize - this.currMag;
         this.currMag = this.magSize;
 
+    }
+
+    private void toggleInteracts(bool toggle) {
+        if (reloadInteract!=null) {
+            reloadInteract.SetActive(toggle);
+        }
+    }
+
+    public int getCurrMag() {
+        return this.currMag;
+    }
+
+    public int getMagSize() {
+        return this.magSize;
+    }
+
+    public int getCurrAmmo() {
+        return this.currAmmo;
+    }
+    public int getMaxAmmo() {
+        return this.maxAmmo;
     }
     
 }
